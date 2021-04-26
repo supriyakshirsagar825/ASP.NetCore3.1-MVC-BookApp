@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pankaj\\Desktop\\ASP.NET MVC Projects\\BookApp\\BookAppWith.NetCoreMVC\\BookAppWith.NetCoreMVC.csproj": {}
+    "C:\\Users\\pankaj\\Desktop\\ASP.NET MVC Projects\\.NetCore3.1\\BookApp\\BookAppWith.NetCoreMVC\\BookAppWith.NetCoreMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pankaj\\Desktop\\ASP.NET MVC Projects\\BookApp\\BookAppWith.NetCoreMVC\\BookAppWith.NetCoreMVC.csproj": {
+    "C:\\Users\\pankaj\\Desktop\\ASP.NET MVC Projects\\.NetCore3.1\\BookApp\\BookAppWith.NetCoreMVC\\BookAppWith.NetCoreMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pankaj\\Desktop\\ASP.NET MVC Projects\\BookApp\\BookAppWith.NetCoreMVC\\BookAppWith.NetCoreMVC.csproj",
+        "projectUniqueName": "C:\\Users\\pankaj\\Desktop\\ASP.NET MVC Projects\\.NetCore3.1\\BookApp\\BookAppWith.NetCoreMVC\\BookAppWith.NetCoreMVC.csproj",
         "projectName": "BookAppWith.NetCoreMVC",
-        "projectPath": "C:\\Users\\pankaj\\Desktop\\ASP.NET MVC Projects\\BookApp\\BookAppWith.NetCoreMVC\\BookAppWith.NetCoreMVC.csproj",
+        "projectPath": "C:\\Users\\pankaj\\Desktop\\ASP.NET MVC Projects\\.NetCore3.1\\BookApp\\BookAppWith.NetCoreMVC\\BookAppWith.NetCoreMVC.csproj",
         "packagesPath": "C:\\Users\\pankaj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pankaj\\Desktop\\ASP.NET MVC Projects\\BookApp\\BookAppWith.NetCoreMVC\\obj\\",
+        "outputPath": "C:\\Users\\pankaj\\Desktop\\ASP.NET MVC Projects\\.NetCore3.1\\BookApp\\BookAppWith.NetCoreMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pankaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
