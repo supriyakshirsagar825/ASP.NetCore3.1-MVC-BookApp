@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookApp", "BookApp\BookApp.csproj", "{F4C6368D-15F7-4ECA-8AD7-8DC75C3F6960}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookAppWith.NetCoreMVC", "BookAppWith.NetCoreMVC\BookAppWith.NetCoreMVC.csproj", "{34BE65DD-3FCF-4F46-B4A6-9BB31B8EB2EC}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F4C6368D-15F7-4ECA-8AD7-8DC75C3F6960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F4C6368D-15F7-4ECA-8AD7-8DC75C3F6960}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F4C6368D-15F7-4ECA-8AD7-8DC75C3F6960}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F4C6368D-15F7-4ECA-8AD7-8DC75C3F6960}.Release|Any CPU.Build.0 = Release|Any CPU
 		{34BE65DD-3FCF-4F46-B4A6-9BB31B8EB2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{34BE65DD-3FCF-4F46-B4A6-9BB31B8EB2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34BE65DD-3FCF-4F46-B4A6-9BB31B8EB2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
